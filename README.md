@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey there 👋
+I'm Juli, a scientist turned over to IT.
+
+🌱 I’m currently learning GitHub
+
+👯 I’m looking to collaborate on all stuff juggling & siteswap
+
+📫 How to reach me for juggling stuff: juli@passing.zone
 
 <!--
 **Jdevries975/Jdevries975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
